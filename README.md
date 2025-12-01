@@ -103,8 +103,8 @@ O sistema foi desenvolvido com React, Node.js, Express, TailwindCSS, MongoDB e C
 - Bcrypt.js
 
 ---
-```
 ## Estrutura do Projeto
+```
 TRIMLY/
 │
 ├── admin/

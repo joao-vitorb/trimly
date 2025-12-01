@@ -6,10 +6,8 @@ O sistema foi desenvolvido com React, Node.js, Express, TailwindCSS, MongoDB e C
 ---
 
 ## Acesse
-- Dashboard geral com estatísticas:
-  - Total de barbeiros
-### Página do Usuário: https://trimly-frontend-d5o4.onrender.com
-### Dashboard do Admin/Barbeiro: https://trimly-admin.onrender.com
+- Página do Usuário: https://trimly-frontend-d5o4.onrender.com
+- Dashboard do Admin/Barbeiro: https://trimly-admin.onrender.com
 
 ## Login
 - Usuário

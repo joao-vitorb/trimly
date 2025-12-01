@@ -6,23 +6,25 @@ O sistema foi desenvolvido com React, Node.js, Express, TailwindCSS, MongoDB e C
 ---
 
 ## Acesse
+- Dashboard geral com estatísticas:
+  - Total de barbeiros
 ### Página do Usuário: https://trimly-frontend-d5o4.onrender.com
 ### Dashboard do Admin/Barbeiro: https://trimly-admin.onrender.com
 
 ## Login
-### Usuário
-### User: joaoborges@trimly.com
-### Senha: joao1234
-
-### Barbeiro
-### User: leonardo@trimly.com
-### Senha: leonardo1234
-### Substitua o "leonardo" pelo primeiro nome do barbeiro que deseja acessar
-
-### Admin
-### User: admin@trimly.com
-### Senha: admin1234
-
+- Usuário
+  - User: joaoborges@trimly.com
+  - Senha: joao1234
+ 
+- Barbeiro
+  - User: leonardo@trimly.com
+  - Senha: leonardo1234
+  - Substitua o "leonardo" pelo primeiro nome do barbeiro que deseja acessar
+ 
+- Admin
+  - User: admin@trimly.com
+  - Senha: admin1234
+    
 ---
 
 ## Página do Usuário
@@ -101,7 +103,7 @@ O sistema foi desenvolvido com React, Node.js, Express, TailwindCSS, MongoDB e C
 - Bcrypt.js
 
 ---
-
+```
 ## Estrutura do Projeto
 TRIMLY/
 │
@@ -128,7 +130,8 @@ TRIMLY/
     ├── .env
     ├── package.json
     └── vite.config.js
-    
+```
+
 - Admin Frontend separado
 Interface exclusiva para gestão de barbeiros, agendamentos e dashboards.
 
@@ -140,5 +143,5 @@ Aplicação principal para usuários finais e para os barbeiros acessarem seus d
 
 ---
 
-📄 Licença
-Este projeto é de uso privado e não possui licença de distribuição
+### Licença
+## Este projeto é de uso privado e não possui licença de distribuição
